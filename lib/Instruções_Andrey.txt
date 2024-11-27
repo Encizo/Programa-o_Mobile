@@ -1,0 +1,4 @@
+Basta extrair cada arquivo, deixar o que esta na screen la dentro e o main na lib, 
+cada arquivo em rar é uma das telas, como descrito nos seus respectivos nomes.
+
+ASS: Mateus Manoel Encizo Teixeira
